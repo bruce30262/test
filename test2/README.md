@@ -13,7 +13,6 @@ can be used to check some information of a ELF (PIE, NX, stack guard...)
 for more information, use`./checksec.sh --help` 
 or check the official [website](http://www.trapkit.de/tools/checksec.html)
 
------------------------------------
 
 getenvaddr.c
 -----------------
@@ -22,7 +21,6 @@ used to check the address of a **env** when executing a program
 **usage:**
 `./getenvaddr [env] [program]`
 
- -------------------------------------
 
 xocopy.c
 ----------------
