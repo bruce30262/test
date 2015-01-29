@@ -25,9 +25,9 @@ used to check the address of a **env** when executing a program
 xocopy.c
 ----------------
 
-used to dump an ELF, **even if you can't read the file** ( = with the permission `--x`)  
+used to dump an ELF file, **even if you can't read the file** ( = with the permission `--x`)  
 **usage:**  
 `./xocopy [-a addr] <file>`  
-where addr is the memory address of the elf header  
+where `addr` is the memory address of the elf header  
   
 [official webpage](http://reverse.lostrealm.com/tools/xocopy.html)
