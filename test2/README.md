@@ -7,10 +7,10 @@ Some useful tools download from internet.
 
 checksec.sh
 ---------------
-can be used to check some information of a ELF (PIE, NX, stack guard...)
-**main usage:**
+can be used to check some information of a ELF (PIE, NX, stack guard...)  
+**main usage:**  
 `./checksec.sh --file [filename] `
-for more information, use`./checksec.sh --help` 
+for more information, use`./checksec.sh --help`   
 or check the official [website](http://www.trapkit.de/tools/checksec.html)
 
 
