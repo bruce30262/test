@@ -7,7 +7,7 @@ Some useful tools download from internet.
 
 checksec.sh
 ---------------
-can be used to check some information of a ELF (PIE, NX, stack guard...)  
+can be used to check some information of a ELF file (PIE, NX, stack guard...)  
 **main usage:**  
 `./checksec.sh --file [filename] `  
 for more information, use`./checksec.sh --help`   
